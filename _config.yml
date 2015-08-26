@@ -1,0 +1,17 @@
+# Site settings
+url: "http://elusive.cat" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+title: Elusive.cat
+description: >
+
+email: blog@elusive.cat
+#twitter_username: jekyllrb
+#github_username:  elusive-code
+
+# Build settings
+encoding: utf-8
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: true
